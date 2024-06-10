@@ -2,7 +2,8 @@
 
 Bem-vindo ao Clube Literário! Este é um projeto para criar uma plataforma online onde os entusiastas da leitura podem se conectar, participar de eventos literários e discutir livros.
 <br>
-Os clubes de leitura desempenham um papel crucial na promoção da leitura e na construção de uma comunidade literária online. Eles oferecem um espaço seguro e acolhedor para os amantes da leitura se expressarem, trocarem ideias e expandirem seus horizontes literários. Além disso, os clubes de leitura incentivam a discussão crítica e analítica dos livros, ajudando os leitores a desenvolverem habilidades de pensamento crítico e a aprofundarem sua compreensão das obras literárias.
+Os clubes de leitura desempenham um papel crucial na promoção da leitura e na construção de uma comunidade literária online. Eles oferecem um espaço seguro e acolhedor para os amantes da leitura se expressarem, trocarem ideias e expandirem seus horizontes literários. Além disso, os clubes de leitura incentivam a discussão crítica e analítica dos livros, ajudando os leitores a desenvolverem habilidades de pensamento crítico e a aprofundarem sua compreensão das obras literárias.  
+Desenvolvido por: Ellóra, Guilherme Souza, João Pedro e Tiago.  
 
 - Link para acessar o site: https://p-i-1-semestre-git-main-olie-dcs-projects.vercel.app/index.html
 
